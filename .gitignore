@@ -1,3 +1,6 @@
 server
 ssh_host_rsa_key
 ssh_host_rsa_key.pub
+host_key.*
+server-c
+server-cpp
